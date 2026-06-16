@@ -101,7 +101,7 @@
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-](https://www.instagram.com/sz_xthetics_/)
+](https://www.instagram.com/codeverseinnovations?igsh=YmszNGYzM2x1bmIx)
 
 </div>
 
