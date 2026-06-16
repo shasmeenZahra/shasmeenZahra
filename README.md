@@ -1,67 +1,112 @@
-# Hi, I'm Shasmeen Zahra! 👋
+<div align="center">
 
-🚀 Co-Founder @Codeverse Innovations  
-💻 Web Dev | Mobile Apps | AI Agents | Design Systems  
-🌍 Based in Karachi, Pakistan  
-🌐 [codeverseinnovations.com](https://www.codeverseinnovations.com)
+# Hi there, I'm Shasmeen Zahra! 👋✨
 
-## 🛠️ Skills
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Co-Founder+%40Codeverse+Innovations;Web+Developer+%7C+AI+Enthusiast;Building+Premium+Digital+Products+🚀" alt="Typing SVG" />
 
+</div>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+---
 
+## 🚀 About Me
+- 🏢 Co-Founder at **[Codeverse Innovations](https://www.codeverseinnovations.com)**
+- 💻 Specialized in **Web Dev, Mobile Apps, AI Agents & Design Systems**
+- 🌍 Based in **Karachi, Pakistan**
+- 🔥 50+ Projects Delivered | 99% Client Satisfaction
+- 💼 Open to **Freelance Projects**
 
+---
 
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
+## 🛠️ Tech Stack
 
 
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+
+
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+
+---
 
 ## 📊 GitHub Stats
 
-
-![Shasmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shasmeenZahra&show_icons=true&theme=radical)
-
+<div align="center">
 
 
-## 📫 Connect with Me
+
+![Shasmeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shasmeenZahra&show_icons=true&theme=radical&hide_border=true)
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shasmeenZahra&layout=compact&theme=radical&hide_border=true)
+
+
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shasmeenZahra&theme=radical&hide_border=true)
+
+
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ](https://www.linkedin.com/in/shasmeen-zahra-2903952b8/)
 [
 
-![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)
+![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 ](https://www.codeverseinnovations.com)
+[
 
-<!--
-**shasmeenZahra/shasmeenZahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-Here are some ideas to get you started:
+](https://www.instagram.com/sz_xthetics_/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+⭐ If you like my work, consider giving a star to my repos!
+</div>
